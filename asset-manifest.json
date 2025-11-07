@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinod9032657813-hub/paramahams.git/static/css/main.f325372b.css",
+    "main.js": "/vinod9032657813-hub/paramahams.git/static/js/main.3ccdf648.js",
+    "static/js/453.65671840.chunk.js": "/vinod9032657813-hub/paramahams.git/static/js/453.65671840.chunk.js",
+    "index.html": "/vinod9032657813-hub/paramahams.git/index.html",
+    "main.f325372b.css.map": "/vinod9032657813-hub/paramahams.git/static/css/main.f325372b.css.map",
+    "main.3ccdf648.js.map": "/vinod9032657813-hub/paramahams.git/static/js/main.3ccdf648.js.map",
+    "453.65671840.chunk.js.map": "/vinod9032657813-hub/paramahams.git/static/js/453.65671840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f325372b.css",
+    "static/js/main.3ccdf648.js"
+  ]
+}
