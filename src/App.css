@@ -1,0 +1,366 @@
+
+
+.vinod1{
+
+  display: flex;
+  border: dashed 5px rgb(210, 125, 227);
+  margin-top: 0px;
+  padding-top: -0px;
+  border-radius: 12px;
+  padding-bottom: -700px;
+  margin-bottom:-20px ;
+  background-color:hsl(64, 78%, 55%) ;
+    
+  
+}
+  .bbb{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .image img{
+  border: 2px solid  rgb(14, 18, 4);
+width: 1415px;
+margin-top: 10px;
+border-radius: 10px;
+padding:50px ;
+background-color:rgb(237, 190, 170);
+padding-bottom: inherit;
+
+  }
+  .chitti{
+     border: 2px solid  rgb(14, 18, 4);
+    width: 1415px; 
+margin-top: 10px;
+border-radius: 10px;
+padding: 50px;
+background-color:blue ;
+padding-left:100px ;
+padding-right:-75px ;
+padding-bottom: inherit;
+  }
+  .tt{
+    border:5px dashed rgb(131, 97, 33) ;
+    width: 1510px;height: 300px;
+    
+
+background-color:rgb(4, 23, 33) ;
+display: flex;
+  }
+  .par p {
+    text-align: left;
+    color: aqua;
+   border: 5px solid red;
+   display: inline-flex;
+   justify-content: center;
+   margin-right:-2500px ;
+   
+  }
+.par2{
+    text-align: right;
+    color: aqua;
+    border: 5px solid red;
+    display: inline-flex;
+    margin-left: 750px;
+    margin-right:-0px ;
+  
+  margin-top: 155px;
+  padding-bottom:-20px ;
+  
+
+  }
+
+
+  .name  {
+    
+    display: inline-flex;
+    margin-left: 500px;
+    font-size:50px ;
+    text-align: center;
+    margin-bottom:-30px ;
+    margin-top: 10px;
+    padding-bottom:px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(230, 233, 81);
+    
+
+
+  }
+
+
+  .b2{
+
+ 
+
+display: flex;
+display: inline-flex;
+list-style: none;
+margin-left: 1000px;
+font-size: large;
+padding: auto;
+
+  }
+  .b3{
+    
+    margin-right:60px ;
+    padding-left:0PX ;
+    font-size: 25px;
+  }
+  .b4{
+
+     margin-right:60px ;
+     font-size: 25px;
+    
+  }
+  .b5{
+   
+     margin-right:60px ;
+     font-size: 25px;
+  }
+  .lll{
+
+    border: 2px solid  rgb(153, 216, 27);
+    margin-top: -55px;
+  }
+  .bor{
+
+
+    border: 5px solid burlywood;
+    width: 1500;
+    height: 1200px; 
+    padding: 50px;
+    background-color: rgb(6, 10, 9);
+    display: flex;
+    margin-left: -30px;
+  }
+  .coc img{
+ border: 5px solid burlywood;
+ display: inline-flex;
+ width: 550px;
+ height: 500px;
+ margin-top: -55px;
+ margin-right: -30px;
+ 
+    
+  }
+  .coct{
+   border: 5px solid rgb(128, 129, 71);
+   
+   font-size: large;
+   
+   display: inline-flex; 
+padding-bottom: -50px;
+color: rgb(18, 175, 223); 
+margin-right: 10px;
+height: 1280px; 
+margin-top: -39px;
+width: 900px;
+  }
+ .peace ul li{
+display: flex;
+display: inline-flex;
+ }
+
+.first {
+
+display: inline-flex;
+margin-right:100px ;
+text-align: center;
+
+}
+.small{
+
+margin-left: -70px;
+margin-top: 20px;
+text-align: center;
+}
+.third{
+
+display: inline-flex; 
+margin-top: 30px;
+margin-left: 50px; 
+}
+.third li{
+  text-decoration: underline;
+  font-size: 20px;
+}
+.first li{
+text-decoration: underline;
+font-size: 20px;
+
+
+
+}
+.four li{
+  font-size: 20px;
+  text-decoration: underline;
+}
+.four{
+  
+  display: inline-flex;
+  margin-left: 150px;
+
+}
+.second{
+
+display: inline-flex;
+margin-left:400px ;  
+}
+.second li{
+  font-size: 20px;
+  text-decoration: underline;
+}
+.peacetop{
+border: 5px dotted slategray;
+
+margin-top: 52px;
+}
+
+ 
+  .india img{
+    border: 5px dotted rgb(184, 21, 100);
+    
+    display: inline-flex;
+    height: 755px;
+    width: 550px;
+    margin-top: -10px;
+  }
+
+
+ .chandra img{
+
+  height: 130px;
+  width: 130px;
+  margin-left: 100px;
+
+ }
+ .sai ul li{
+  display: inline-flex;
+  list-style: none;
+  padding-top: 20px;
+ }
+ .sai ul li{
+  padding: 10px;
+
+  font-size: 30px;
+
+
+ }
+ .sai {
+
+  margin-left: 20px;
+  margin-top: 10px;
+  padding-top: 27px;
+ }
+ .patel input{
+  
+  margin-left: 50px;
+  margin-top: 70px;
+  width: 260px;
+  height: 50px;
+
+ }
+.raghu ul li {
+  display:inline-flex ;
+  list-style: none;
+  padding: 10px;
+  margin-left: 40px;
+  font-size: 20px;
+  margin-bottom: 20px;
+
+}
+.raghu{
+ 
+  margin-left: 40px;
+  margin-top: 10px;
+  font-size: 50px;
+  padding-bottom: 30px;
+}
+
+
+.patel  img{
+  display: inline-flex;
+  gap: 10px;
+
+}
+.mmm img{
+ 
+  height: 30px;
+  width:  30px;
+  display: inline-flex;
+  display: flex;
+  margin-left: 10px;
+  margin-right: 15px;
+  margin-top:-3 ;
+
+
+}
+.raghu div h1 img{
+  display: inline-flex;
+  display: flex;
+
+}
+.ppp img{
+  
+  height: 30px;
+  width:  30px;
+  margin-left: 100px;
+  margin-top: -102px;
+  
+  
+
+}
+.ooo img{
+ 
+  height: 30px;
+  width:  30px;
+   margin-left: 185px;
+    margin-top: -97px;
+}
+.para{
+  
+  text-align: left;
+  font-size: x-large;
+  margin-top:-19px ;
+  border: 5px solid blueviolet;
+  display: inline-flex;
+  text-align: left;
+  padding-right: 740px;
+color: rgb(68, 14, 177);  
+
+}
+
+.mini iframe{
+
+margin-right: -55px;border: 5px  rgb(237, 66, 120) dashed;
+margin-top: -470px;
+padding-bottom: 50px;
+background-color:rgb(131, 188, 25) ;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+
+}
+
+
+.jjj iframe{
+margin-right: -55px;border: 5px  black dashed;
+margin-top: -470px;
+padding-bottom: 50px;
+background-color:rgb(12, 14, 179) ;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 50px;
+}
+
+
+.somuch{
+  color: gray;
+  font-size: 200px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+margin-top:15px ;
+}
+.gg{
+
+  
+  margin-top: -170px;
+} 
